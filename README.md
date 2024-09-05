@@ -24,8 +24,6 @@ The `/output/dssp` directory contains DSSP output for these structures, and feat
 
 We have analysed VAMP-seq data from the following papers, and the files in `/data/vampseq_data/processed` thus contain data from these publications:
 
-```
-
 Matreyek KA, Starita LM, Stephany JJ, Martin B, Chiasson MA, Gray VE, Kircher M, Khechaduri A, Dines JN, Hause RJ, Bhatia S, Evans WE, Relling MV, Yang W, Shendure J, Fowler DM. Multiplex assessment of protein variant abundance by massively parallel sequencing. Nature Genetics. 2018 Jun; 50(6):874–882
 
 Matreyek KA, Stephany JJ, Ahler E, Fowler DM. Integrating thousands of PTEN variant activity and abundance measurements reveals variant subgroups and new dominant negatives in cancers. Genome Medicine. 2021863 Dec; 13(1):165
@@ -37,5 +35,3 @@ Suiter CC, Moriyama T, Matreyek KA, Yang W, Scaletti ER, Nishii R, Yang W, Hoshi
 Grønbæk-Thygesen M, Voutsinos V, Johansson KE, Schulze TK, Cagiada M, Pedersen L, Clausen L, Nariya S, Powell RL, Stein A, Fowler DM, Lindorff-Larsen K, Hartmann-Petersen R. Deep mutational scanning reveals a correlation between degradation and toxicity of thousands of aspartoacylase variants. Nature Communications. 2024 May; 15(1):4026
 
 Clausen L, Voutsinos V, Cagiada M, Johansson KE, Grønbæk-Thygesen M, Nariya S, Powell RL, Have MKN, Oestergaard VH, Stein A, Fowler DM, Lindorff-Larsen K, Hartmann-Petersen R. A mutational atlas for Parkin proteostasis. Nature Communications. 2024 Feb; 15(1):1541
-
-```
