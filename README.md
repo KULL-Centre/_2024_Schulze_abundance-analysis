@@ -3,10 +3,15 @@
 Data, scripts and notebooks for analysis in the manuscript:
 
 To reproduce figures from manuscript, run the scripts in the following order to first calculate and plot average abundance score substitution matrices and then perform and plot predictions of variant abundance using the matrices:
+
 `/scripts/calc_structure_features.py` (calculate rASA and WCN for all residues in WT protein structures)
+
 `/scripts/calc_substitution_matrices.py` (calculate average abundance score substitution matrices for residues in different structural environments, using different combinations of variant abundance datasets and for different ways of classifying residues as exposed or buried)
+
 `/scripts/plot_substitution_matrices.py` 
+
 `/scripts/pred_from_matrices.py` (use average abundance score substitution matrices to predict variant abundance)
+
 `/scripts/plot_prediction_results.py` 
 
 The plots shown in the manuscript that are not produced by running the above can be generated with the notebooks in `/notebooks`.
@@ -17,7 +22,7 @@ The structure files actually used in the analysis can be found in `/data/pdb_fil
 
 The `/output/dssp` directory contains DSSP output for these structures, and features of these structures are stored in files in `/output/structure_features`. 
 
-We have analysed VAMP-seq data from the following papers, and the files in `/data/vampseq_data/processed` thus contains data from these publications:
+We have analysed VAMP-seq data from the following papers, and the files in `/data/vampseq_data/processed` thus contain data from these publications:
 
 Matreyek KA, Starita LM, Stephany JJ, Martin B, Chiasson MA, Gray VE, Kircher M, Khechaduri A, Dines JN, Hause RJ, Bhatia S, Evans WE, Relling MV, Yang W, Shendure J, Fowler DM. Multiplex assessment of protein variant abundance by massively parallel sequencing. Nature Genetics. 2018 Jun; 50(6):874–882
 
