@@ -2,9 +2,7 @@
 
 Data, scripts and notebooks for analysis in the manuscript:
 
-Effects of residue substitutions on the cellular abundance of proteins
-Thea K. Schulze, Kresten Lindorff-Larsen
-bioRxiv 2024.09.23.614650; doi: https://doi.org/10.1101/2024.09.23.614650
+Effects of residue substitutions on the cellular abundance of proteins. Thea K. Schulze, Kresten Lindorff-Larsen. bioRxiv 2024.09.23.614650; doi: https://doi.org/10.1101/2024.09.23.614650
 
 To reproduce figures from manuscript, run the scripts in the following order to first calculate and plot average abundance score substitution matrices and then perform and plot predictions of variant abundance using the matrices:
 
